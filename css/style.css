@@ -4,6 +4,13 @@ body {
   background-color: #ffffff;
 }
 
+.send{
+  background-color: transparent !important;
+  color:#000000;
+  border-radius:1px solid black !important;
+  margin: 4px !important;
+}
+
 .layout_padding {
   padding: 75px 0;
 }
